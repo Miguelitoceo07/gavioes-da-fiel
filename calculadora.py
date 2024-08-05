@@ -38,3 +38,5 @@ def calculadora():
         print("Opção inválida!")
 #  Chamando a função principal da calculadora
 calculadora()
+
+#...
