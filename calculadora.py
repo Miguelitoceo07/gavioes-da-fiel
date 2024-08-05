@@ -38,6 +38,7 @@ def calculadora():
         print("Opção inválida!")
 #  Chamando a função principal da calculadora
 calculadora()
+raiz-quadrada
 import math  # Importando o módulo math para usar a função sqrt (raiz quadrada)
 
 # Definindo funções para cada operação
@@ -90,3 +91,6 @@ def calculadora():
 
 # Chamando a função principal da calculadora
 calculadora()
+
+#....
+main
